@@ -1,0 +1,21 @@
+{
+  "name": "Hiphop-API",
+  "version": "1.0.0",
+  "description": "Hiphop API for Real Time Applications",
+  "author": "Nathan Thompson",
+  "contributors": [
+    {
+      "name": "Nathan Thompson",
+      "email": "nathan@congruent.io"
+    },
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/legitosaurus/Hiphop-API"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+}
