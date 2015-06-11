@@ -7,7 +7,7 @@
     {
       "name": "Nathan Thompson",
       "email": "nathan@congruent.io"
-    },
+    }
   ],
   "license": "MIT",
   "repository": {
@@ -18,4 +18,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "node-gcm": "^0.9.15"
+  }
 }
